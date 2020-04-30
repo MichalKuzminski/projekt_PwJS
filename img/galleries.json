@@ -1,0 +1,27 @@
+ 
+[
+     { "title":"Rzym",
+     "when":"2015-12-14",
+     "thumbnailUrl":"img/rzym.jpg"
+    },
+    { "title":"Maroko",
+     "when":"2014-08-04",
+     "thumbnailUrl":"img/maroko.jpg"
+    },
+    { "title":"Tajlandia",
+    "when":"2016-07-19",
+    "thumbnailUrl":"img/tajlandia.jpg"
+   },
+   { "title":"Kambodża",
+   "when":"2016-01-25",
+   "thumbnailUrl":"img/kambodza.jpg"
+  },
+  { "title":"Turcja",
+  "when":"2014-05-11",
+  "thumbnailUrl":"img/turcja.jpg"
+ },
+ { "title":"Chiny",
+ "when":"2017-11-03",
+ "thumbnailUrl":"img/chiny.jpg"
+}   
+]
